@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://52.195.171.228:8080';
+const API_BASE_URL = 'http://52.195.171.228:8080';
 
 export const fetchBooks = async () => {
   console.log("received")
